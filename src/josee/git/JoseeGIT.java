@@ -9,6 +9,8 @@ package josee.git;
  * @author Josico
  */
 public class JoseeGIT {
+    int fuerte;
+    int flojo;
 
     /**
      * @param args the command line arguments
