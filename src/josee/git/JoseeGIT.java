@@ -11,7 +11,8 @@ package josee.git;
 public class JoseeGIT {
     int fuerte;
     int flojo;
-
+    int grande;
+    
     /**
      * @param args the command line arguments
      */
