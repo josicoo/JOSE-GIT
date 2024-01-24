@@ -12,6 +12,7 @@ public class JoseeGIT {
     int fuerte;
     int flojo;
     int grande;
+    int pequeño;
     
     /**
      * @param args the command line arguments
